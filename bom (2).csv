@@ -1,0 +1,4 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SC, SE, SB, SF, SA, SG, SD",7," Pushbutton"
+"PIEZO1",1," Piezo"
